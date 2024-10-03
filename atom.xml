@@ -6,7 +6,7 @@
   <link href="https://blog.mtice.top/atom.xml" rel="self"/>
   
   <link href="https://blog.mtice.top/"/>
-  <updated>2024-10-03T06:51:10.890Z</updated>
+  <updated>2024-10-03T09:00:52.703Z</updated>
   <id>https://blog.mtice.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.mtice.top/2024/10/02/7/"/>
     <id>https://blog.mtice.top/2024/10/02/7/</id>
     <published>2024-10-02T22:43:47.000Z</published>
-    <updated>2024-10-03T06:51:10.890Z</updated>
+    <updated>2024-10-03T09:00:52.703Z</updated>
     
     <content type="html"><![CDATA[<p>这是一个基于 <strong>Python</strong> 的伪操作系统</p><p><strong>M</strong>ake <strong>P</strong>yOS <strong>G</strong>reat <strong>A</strong>gain<br>让 PyOS 再次伟大！</p><h2 id="本次更新的内容"><a href="#本次更新的内容" class="headerlink" title="本次更新的内容"></a>本次更新的内容</h2><ul><li>适配 Windows</li><li>更新了作者信息与项目链接</li><li>修复了若干bug</li><li>还有更多更新等你探索 (∠·ω&lt; _)⌒★</li></ul><h2 id="界面图"><a href="#界面图" class="headerlink" title="界面图"></a>界面图</h2><p>总览:<br><img src="https://pic.imgdb.cn/item/66fe3eada3805b81b85de7bb.jpg" alt="总览"></p><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><ol start="0"><li><p>确保你安装了Python3</p></li><li><p>输入以下命令安装依赖</p>  <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip install colorama</span><br></pre></td></tr></table></figure></li><li><p>输入<code>python pyos.py</code>来启动 PyOS</p></li></ol><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>项目地址:  <a href="https://github.com/Meltide/mpga-pyos">github.com&#x2F;Meltide&#x2F;mpga-pyos</a><br>下载地址:  <a href="https://github.com/Meltide/mpga-pyos/releases/latest">github.com&#x2F;Meltide&#x2F;mpga-pyos&#x2F;releases&#x2F;latest</a> </p>]]></content>
     
@@ -34,9 +34,9 @@
     
     
     
-    <category term="MPGA PyOS" scheme="https://blog.mtice.top/categories/MPGA-PyOS/"/>
+    <category term="技术" scheme="https://blog.mtice.top/categories/%E6%8A%80%E6%9C%AF/"/>
     
-    <category term="技术" scheme="https://blog.mtice.top/categories/MPGA-PyOS/%E6%8A%80%E6%9C%AF/"/>
+    <category term="MPGA PyOS" scheme="https://blog.mtice.top/categories/%E6%8A%80%E6%9C%AF/MPGA-PyOS/"/>
     
     
     <category term="技术" scheme="https://blog.mtice.top/tags/%E6%8A%80%E6%9C%AF/"/>
@@ -182,7 +182,7 @@
     <link href="https://blog.mtice.top/2024/09/23/2/"/>
     <id>https://blog.mtice.top/2024/09/23/2/</id>
     <published>2024-09-23T17:06:46.000Z</published>
-    <updated>2024-10-03T06:45:22.346Z</updated>
+    <updated>2024-10-03T09:00:39.811Z</updated>
     
     <content type="html"><![CDATA[<p>这是一个基于<strong>Python</strong>的伪操作系统</p><p><strong>M</strong>ake <strong>P</strong>yOS <strong>G</strong>reat <strong>A</strong>gain<br>让 PyOS 再次伟大！</p><h2 id="本次更新的内容"><a href="#本次更新的内容" class="headerlink" title="本次更新的内容"></a>本次更新的内容</h2><ul><li>密码系统更新，采用外部文件base64加密存储</li><li>将帮助进行了分类，更直观</li><li>新增功能：猜数字小游戏，ASCII字典</li><li>关机界面大改，更加优雅</li><li>修复了若干bug</li><li>还有更多更新等你探索 (∠·ω&lt; )⌒★</li></ul><h2 id="界面图"><a href="#界面图" class="headerlink" title="界面图"></a>界面图</h2><p>总览:</p> <img src="https://www.freeimg.cn/i/2024/09/14/66e59d203e97d.webp"><p>炫酷的关机界面:</p> <img src="https://www.freeimg.cn/i/2024/09/14/66e59cc76474e.webp"><p>帮助界面:</p> <img src="https://www.freeimg.cn/i/2024/09/14/66e59ed4d2266.webp"><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p>0.确保你安装了Python3<br>1.输入以下命令安装依赖</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">pip install colorama</span><br><span class="line">pip install pythondialog</span><br></pre></td></tr></table></figure><p>2.输入<code>python pyos.py</code>来启动 PyOS</p><h2 id="视频演示"><a href="#视频演示" class="headerlink" title="视频演示"></a>视频演示</h2><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113017568102035&bvid=BV1acsFezEKj&cid=500001660999280&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="250px"></iframe><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>项目地址:  <a href="https://github.com/Meltide/mpga-pyos">github.com&#x2F;Meltide&#x2F;mpga-pyos</a><br>下载地址:  <a href="https://github.com/Meltide/mpga-pyos/releases/latest">github.com&#x2F;Meltide&#x2F;mpga-pyos&#x2F;releases&#x2F;latest</a> </p>]]></content>
     
@@ -195,9 +195,9 @@
     
     
     
-    <category term="MPGA PyOS" scheme="https://blog.mtice.top/categories/MPGA-PyOS/"/>
+    <category term="技术" scheme="https://blog.mtice.top/categories/%E6%8A%80%E6%9C%AF/"/>
     
-    <category term="技术" scheme="https://blog.mtice.top/categories/MPGA-PyOS/%E6%8A%80%E6%9C%AF/"/>
+    <category term="MPGA PyOS" scheme="https://blog.mtice.top/categories/%E6%8A%80%E6%9C%AF/MPGA-PyOS/"/>
     
     
     <category term="技术" scheme="https://blog.mtice.top/tags/%E6%8A%80%E6%9C%AF/"/>
